@@ -15,4 +15,4 @@ Thompson, M. S. A., Couce, E., Webb, T. J., Grace, M., Cooper, K. M., & Schratzb
  
 Acknowledgements
 
-This work was supported by the Cefas Seedcorn project ‘Next generation Cefas biodiversity science: from individuals to ecosystems’; further developed with support from The Crown Estate POSEIDON (Planning Offshore Wind Strategic Environmental Decisions) project; the Natural Environment Research Council and the Economic and Social Research Council grant NE/V017039/1 (Pyramids of Life) and from the European Union’s Horizon 2020 research and innovation programme under Grant Agreement No 101059823 (B-USEFUL).
+This work was initially supported by the Cefas Seedcorn projects ‘Next generation Cefas biodiversity science: from individuals to ecosystems’ and ‘Integrated Monitoring’; further developed with support from The Crown Estate POSEIDON (Planning Offshore Wind Strategic Environmental Decisions) project; the Natural Environment Research Council and the Economic and Social Research Council grant NE/V017039/1 (Pyramids of Life) and from the European Union’s Horizon 2020 research and innovation programme under Grant Agreement No 101059823 (B-USEFUL).
