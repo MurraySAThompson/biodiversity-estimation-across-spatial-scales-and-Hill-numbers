@@ -2,6 +2,7 @@
 Alpha-, beta-, and gamma-diversity estimation across Hill numbers
 
 THIS INFORMATION IS LICENSED UNDER THE CONDITIONS OF THE OPEN GOVERNMENT LICENCE found at: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3
+
 Rarefaction and extrapolation based on Hill numbers offer a unified framework to quantify the multidimensional and scale-dependent properties of biodiversity that can be applied similarly across assemblages to estimate alpha-, beta- and gamma-diversity (i.e. sample-level species richness, regional differences in species composition between samples, and regional species richness, respectively; Chao et al., 2014, 2024; Thompson et al., 2021). All biodiversity calculations accounted for variation in sampling effort, following Thompson et al. (2021), with rarefaction and extrapolation implemented in the iNEXT package in R (Hsieh et al., 2014). Here is an example of how to estimate alpha-, beta-, and gamma-diversity across Hill numbers using publicly available fish survey data from Lynam & Ribeiro (2022). This approach forms the basis for: “Mapping benthic biodiversity to facilitate future sustainable development”. Cooper, K.M., Thompson, M.S.A., Bolam, S.G., Peach, C.M., Webb, T.J., Downie, A-L. 2025. Ecosphere (in press); “From plankton to fish: 21st-century redistribution of marine biodiversity and the changing role of rare species” Couce, E., Greig, L., Engelhard, G., Pinnegar, J., Cooper K.M., Hélaouët, P., Pecuchet, L., Peck, M.A., Lindegren, M., Thompson, M.S.A. (in prep). 
 
 
