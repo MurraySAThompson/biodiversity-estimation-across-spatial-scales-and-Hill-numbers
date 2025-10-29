@@ -9,8 +9,11 @@ Rarefaction and extrapolation based on Hill numbers offer a unified framework to
 References
 
 Chao, A., Chiu, C.-H., Hu, K.-H., van der Plas, F., Cadotte, M. W., Mitesser, O., Thorn, S., Mori, A. S., Scherer-Lorenzen, M., Eisenhauer, N., Bässler, C., Delory, B. M., Feldhaar, H., Fichtner, A., Hothorn, T., Peters, M. K., Pierick, K., von Oheimb, G., & Müller, J. (2024). Hill–Chao numbers allow decomposing gamma multifunctionality into alpha and beta components. Ecology Letters, 27(1), e14336. https://doi.org/https://doi.org/10.1111/ele.14336
+
 Chao, A., Gotelli, N. J., Hsieh, T. C., Sander, E. L., Ma, K. H., Colwell, R. K., & Ellison, A. M. (2014). Rarefaction and extrapolation with Hill numbers: a framework for sampling and estimation in species diversity studies. Ecological Monographs, 84(1), 45–67. https://doi.org/10.1890/13-0133.1
+
 Lynam, C. P., & Ribeiro, J. (2022). A data product derived from Northeast Atlantic groundfish data from scientific trawl surveys 1983-2020. https://doi.org/https://doi.org/10.14466/CefasDataHub.126
+
 Thompson, M. S. A., Couce, E., Webb, T. J., Grace, M., Cooper, K. M., & Schratzberger, M. (2021). What’s hot and what’s not: Making sense of biodiversity ‘hotspots.’ Global Change Biology, 27(3), 521–535. https://doi.org/10.1111/gcb.15443
 
  
