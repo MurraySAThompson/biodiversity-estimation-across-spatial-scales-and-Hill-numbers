@@ -1,4 +1,4 @@
-# Author: Murray SA Thompson
+# Authors: Murray S.A. Thompson, Connor M. Peach and Philip Lamb
 # Contact: murray.thompson@cefas.gov.uk
 # Version: 1
 # November 2024
@@ -718,4 +718,5 @@ sp_div_plts = do.call(ggarrange, c(plots_sp_div, align='hv', ncol=3, nrow=4))
 #pdf(paste0(outpath,"/", "spatial_diverity_", file_name, ".pdf"), width = 8, height = 10, pointsize = 12)
 sp_div_plts
 #dev.off()
+
 
